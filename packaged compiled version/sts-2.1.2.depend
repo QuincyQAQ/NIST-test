@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1251895416 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\approximateentropy.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"../include/externs.h"
+	"../include/utilities.h"
+	"../include/cephes.h"
+
+1210303322 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\externs.h
+	"../include/defs.h"
+
+1214198768 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\defs.h
+	"config.h"
+
+1210041718 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\config.h
+
+1209349802 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\utilities.h
+
+1206024558 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\cephes.h
+
+1281426998 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\assess.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"../include/decls.h"
+	"../include/cephes.h"
+	"../include/utilities.h"
+
+1210303308 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\decls.h
+	"../include/defs.h"
+
+1251895462 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\blockfrequency.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"../include/externs.h"
+	"../include/cephes.h"
+
+1213851274 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\cephes.c
+	<stdio.h>
+	<math.h>
+	"../include/cephes.h"
+
+1251895560 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\cusum.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"../include/externs.h"
+	"../include/cephes.h"
+
+1225412336 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\dfft.c
+	<math.h>
+
+1404787860 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\discretefouriertransform.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"../include/externs.h"
+	"../include/utilities.h"
+	"../include/cephes.h"
+
+1251895742 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\frequency.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"../include/externs.h"
+
+1264556516 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\generators.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"../include/externs.h"
+	"../include/utilities.h"
+	"../include/generators.h"
+	"../include/genutils.h"
+
+1209097618 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\generators.h
+
+1209367548 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\genutils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"config.h"
+
+1213852402 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\genutils.c
+	"../include/genutils.h"
+
+1404787894 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\linearcomplexity.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"../include/externs.h"
+	"../include/cephes.h"
+
+1251895874 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\longestrunofones.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"../include/externs.h"
+	"../include/cephes.h"
+
+1210303612 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	"../include/externs.h"
+	"../include/matrix.h"
+
+1209090424 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\matrix.h
+
+1404787932 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\nonoverlappingtemplatematchings.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"../include/externs.h"
+	"../include/utilities.h"
+	"../include/cephes.h"
+
+1404787206 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\overlappingtemplatematchings.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"../include/externs.h"
+	"../include/utilities.h"
+	"../include/cephes.h"
+
+1251896112 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\randomexcursions.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"../include/externs.h"
+	"../include/cephes.h"
+
+1251896170 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\randomexcursionsvariant.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"../include/externs.h"
+	"../include/cephes.h"
+
+1251896272 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\rank.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"../include/externs.h"
+	"../include/cephes.h"
+	"../include/matrix.h"
+
+1251896312 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\runs.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"../include/externs.h"
+	"../include/cephes.h"
+
+1251896350 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\serial.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"../include/externs.h"
+	"../include/cephes.h"
+
+1251896410 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\universal.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"../include/externs.h"
+	"../include/utilities.h"
+	"../include/cephes.h"
+
+1251877070 source:c:\users\zhang zeqing\documents\code\sts-2.1.2\src\utilities.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"../include/externs.h"
+	"../include/utilities.h"
+	"../include/generators.h"
+	"../include/stat_fncs.h"
+
+1209103428 c:\users\zhang zeqing\documents\code\sts-2.1.2\include\stat_fncs.h
+

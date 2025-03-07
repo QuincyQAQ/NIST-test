@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sts-2.1.2" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sts-2.1.2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sts-2.1.2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-o" />
+		</Compiler>
+		<Unit filename="include/cephes.h" />
+		<Unit filename="include/config.h" />
+		<Unit filename="include/decls.h" />
+		<Unit filename="include/defs.h" />
+		<Unit filename="include/externs.h" />
+		<Unit filename="include/generators.h" />
+		<Unit filename="include/genutils.h" />
+		<Unit filename="include/matrix.h" />
+		<Unit filename="include/stat_fncs.h" />
+		<Unit filename="include/utilities.h" />
+		<Unit filename="src/approximateEntropy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/assess.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/blockFrequency.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/cephes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/cusum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/dfft.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/discreteFourierTransform.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/frequency.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/generators.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/genutils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/linearComplexity.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/longestRunOfOnes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/matrix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/nonOverlappingTemplateMatchings.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/overlappingTemplateMatchings.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/randomExcursions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/randomExcursionsVariant.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/rank.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/runs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/serial.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/universal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/utilities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
